@@ -34,7 +34,7 @@ To get started with the Starknet Monthly Transfer contract, follow these steps:
    ```
 
 2. **Install Cairo**:
-   Follow the official [Cairo installation guide](https://www.cairo-lang.org/docs/quickstart.html).
+   Follow the official [Cairo installation guide](https://www.cairo-lang.org/tutorials/getting-started-with-cairo/).
 
 3. **Compile the contract**:
    ```bash
